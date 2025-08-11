@@ -1,0 +1,4 @@
+# Requirements for Android Manifest Analyzer
+beautifulsoup4>=4.9.0
+lxml>=4.6.0
+colorama>=0.4.4  # For Windows color support
